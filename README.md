@@ -352,10 +352,10 @@ Edite o arquivo `src/models/data.js` para adicionar produtos, clientes ou pedido
 
 ISC
 
-## 👨‍💻 Autor
+## Link Youtube
+https://youtu.be/4Zr-FxQ91Bo
 
-Seu Nome
+## 👨‍💻 Autor
+Letícia Aragão Cerial
 
 ---
-
-**Dica**: Use um cliente REST como Postman ou Insomnia para testar todos os endpoints de forma mais conveniente!
