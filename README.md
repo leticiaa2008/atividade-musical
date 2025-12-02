@@ -353,7 +353,7 @@ Edite o arquivo `src/models/data.js` para adicionar produtos, clientes ou pedido
 ISC
 
 ## Link Youtube
-https://youtu.be/4Zr-FxQ91Bo
+[https://youtu.be/4Zr-FxQ91Bo](https://youtu.be/4Zr-FxQ91Bo)
 
 ## 👨‍💻 Autor
 Letícia Aragão Cerial
